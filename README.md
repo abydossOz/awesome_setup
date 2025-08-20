@@ -7,7 +7,13 @@
 ## OS
 - Ubuntu
   - replace gnome-terminal with kitty or tilix
-    
+
+## version control
+- git
+- gh cli
+- github desktop
+- gitea
+  
 ## Documents
 - libreoffice
 - obsidian
