@@ -47,12 +47,12 @@
 
 ## document editor
 [read more on doc method](https://www.goodnotes.com/blog/zettelkasten-method)
-> [!WARN]
+> [!CAUTION]
 > only for individuals
 - obsidian 
   - git plugin
  
->[!SUCCESS]
+>[!TIP]
 >liberal licence terms
 - joplin
   - [discord plugin](https://github.com/mahancoder/joplin-discord-rich-presence)
