@@ -51,6 +51,9 @@
 > only for individuals
 - obsidian 
   - git plugin
+ 
+>[!SUCCESS]
+>liberal licence terms
 - joplin
   - [discord plugin](https://github.com/mahancoder/joplin-discord-rich-presence)
   - [kanban](https://joplinapp.org/plugins/downloadPlugin.html?plugin=org.joplinapp.plugins.YesYouKan?from-tab=productivity)
@@ -63,6 +66,7 @@
 ## bash shell
 >[!TIP]
 >install for autocompletion et all
+- oh-my-bash
 
 ## zsh shell 
 >[!TIP]
