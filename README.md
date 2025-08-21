@@ -46,8 +46,20 @@
 - keepassxc
 
 ## document editor
-- obsidian
+[read more on doc method](https://www.goodnotes.com/blog/zettelkasten-method)
+> [!WARN]
+> only for individuals
+- obsidian 
   - git plugin
+- joplin
+  - [discord plugin](https://github.com/mahancoder/joplin-discord-rich-presence)
+  - [kanban](https://joplinapp.org/plugins/downloadPlugin.html?plugin=org.joplinapp.plugins.YesYouKan?from-tab=productivity)
+  - [quick links](https://joplinapp.org/plugins/plugin/com.whatever.quick-links/?from-tab=productivity)
+  - [inline todo](https://joplinapp.org/plugins/plugin/plugin.calebjohn.todo/?from-tab=personal-knowledge-management)
+  - [table formatting](https://github.com/roman-r-m/joplin-plugin-table-formatter)
+  - [extra options md](https://github.com/personalizedrefrigerator/joplin-plugin-extra-editor-settings)
+  - [publish site](https://joplin-utils.rxliuli.com/en-US/joplin-publisher/)
+
 ## bash shell
 >[!TIP]
 >install for autocompletion et all
